@@ -80,27 +80,24 @@ function About() {
         {/* Additional Info Section */}
         <div className="mt-20">
           <div className="grid md:grid-cols-3 gap-8">
-            <div className="text-center p-6 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 hover:bg-white/10 transition-all duration-300">
-              <div className="text-3xl mb-4">🎯</div>
-              <h4 className="text-lg font-semibold text-white mb-2">Problem Solver</h4>
+            <div className="text-center p-8 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 hover:bg-white/10 transition-all duration-300">
+              <h4 className="text-xl font-semibold text-white mb-4">Problem Solver</h4>
               <p className="text-gray-300">
                 I thrive on solving complex challenges and turning ideas into reality through clean, 
                 efficient code.
               </p>
             </div>
             
-            <div className="text-center p-6 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 hover:bg-white/10 transition-all duration-300">
-              <div className="text-3xl mb-4">🚀</div>
-              <h4 className="text-lg font-semibold text-white mb-2">Innovation Driven</h4>
+            <div className="text-center p-8 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 hover:bg-white/10 transition-all duration-300">
+              <h4 className="text-xl font-semibold text-white mb-4">Innovation Driven</h4>
               <p className="text-gray-300">
                 Always eager to learn new technologies and implement cutting-edge solutions 
                 in my projects.
               </p>
             </div>
             
-            <div className="text-center p-6 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 hover:bg-white/10 transition-all duration-300">
-              <div className="text-3xl mb-4">🤝</div>
-              <h4 className="text-lg font-semibold text-white mb-2">Team Player</h4>
+            <div className="text-center p-8 bg-white/5 backdrop-blur-sm rounded-lg border border-white/10 hover:bg-white/10 transition-all duration-300">
+              <h4 className="text-xl font-semibold text-white mb-4">Team Player</h4>
               <p className="text-gray-300">
                 Collaborative mindset with excellent communication skills and experience 
                 working in agile environments.
